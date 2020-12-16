@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: dominicdaviescodes/blog
+  branch: main
 media_folder: static/assets
 public_folder: assets
 
